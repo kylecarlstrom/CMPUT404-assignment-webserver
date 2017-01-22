@@ -19,10 +19,11 @@ server.py contains contributions from:
 * Tian Zhi Wang
 * Kyle Carlstrom
 
-Used the following documentation for os https://docs.python.org/2/library/os.html
-Used the following documentation for os.path https://docs.python.org/2/library/os.path.html
-Used the following documentation for mimetypes: https://docs.python.org/2/library/mimetypes.html
-Idea for checking absolute path of file https://github.com/carsonmclean/CMPUT404-assignment-webserver/blob/master/server.py Carson McLean
+Used the following resources in creating this project:  
+https://docs.python.org/2/library/os.html  
+https://docs.python.org/2/library/os.path.html  
+https://docs.python.org/2/library/mimetypes.html  
+https://github.com/carsonmclean/CMPUT404-assignment-webserver/blob/master/server.py Carson McLean
 
 But the server.py example is derived from the python documentation
 examples thus some of the code is Copyright © 2001-2013 Python
